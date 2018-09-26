@@ -1,0 +1,11 @@
+# CNC-Gadgets
+
+This will be a collection of miscellaneous files in either DXF or Vectric VCarve/Aspire format (.crv / .crv3d), which are too simple to merit their own project archive.
+
+All files within this archive are Copyright Peter Gamache, provided as-is with no warranty whatsoever, and licensed CC-BY-SA 4.0.  See [LICENSE.md](LICENSE.md) for full license text.
+
+## NEMA Outlet Templates
+
+This is a collection of templates for creating wall plates to cover North American standard electrical devices (toggle switches, outlets, etc.)  It contains guides to align from 1 to 8 devices in a gang layout with proper spacing.
+
+## More to come...
